@@ -1,0 +1,6 @@
+
+Paradigma Pemograman
+-suatu gaya, teknik atau cara penulisan suatu program
+
+Program Berorientasi Pajak
+-Berdasarkan objek yang berisi data dalam bentuk file atau dikenal juga atribut code
